@@ -39,5 +39,3 @@ elif file_ext == "mp4":
     .overwrite_output()
     .run()
     )
-
-tkinter.messagebox.showinfo('完了', '変換が完了しました')
